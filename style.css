@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-div{
+    width: 1200px;
+    margin: auto;
+}
+.header-lst-itm{
+    background-color: #34495e;
+    padding: 40px;
+}
+.header-lst-itm ul{
+    text-align: center;
+}
+.header-lst-itm ul li{
+    display: inline-block;
+}
+.header-lst-itm ul li a{
+    color: #34495e;
+    display: block;
+    background: #e67e22;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 15px;
+}
+
+.slider-item{
+    background: url(./stylish-hexagonal-line-pattern-background-1017-19742.jpg);
+    padding: 40px 0;
+    text-align: center;
+}
+.slider-item p{
+    padding: 15px;
+}
+.slider-item a{
+    display: inline-block;
+    background: #dc3646;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+
+
+.service-item{
+    background: #d35400;
+    padding: 30px;
+
+}
+.service-item p{
+    text-align: center;
+    color: #fff;
+}
+.service-item ul{
+    text-align: center;
+    padding: 30px;
+}
+.service-item ul li{
+    display: inline-block;
+}
+.service-item ul li a{
+    margin-left: 15px;
+}
+
+.footer-item h3{
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+}
